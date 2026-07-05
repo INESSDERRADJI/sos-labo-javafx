@@ -33,6 +33,12 @@ The project focuses on user interaction, scene navigation, keyboard-based contro
 <img width="1305" height="797" alt="image" src="https://github.com/user-attachments/assets/d15e938d-2e56-448a-98e1-26e1747ce880" />
 <img width="1304" height="762" alt="image" src="https://github.com/user-attachments/assets/6235d335-bf00-4cad-960f-45e6d9f8beaf" />
 <img width="1303" height="805" alt="image" src="https://github.com/user-attachments/assets/8bc55d3a-a49f-4526-86d9-100c44b15a9c" />
+<img width="1901" height="1080" alt="image" src="https://github.com/user-attachments/assets/f17f748b-54ca-4c1e-b721-d1a07178ded1" />
+<img width="1802" height="1021" alt="image" src="https://github.com/user-attachments/assets/fefb7010-d0ed-4872-a855-f1c16d73c170" />
+<img width="1772" height="1017" alt="image" src="https://github.com/user-attachments/assets/abcefb13-31a2-4a7d-83ed-db93eeef4d93" />
+
+
+
 
 
 
