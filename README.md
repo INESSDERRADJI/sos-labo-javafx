@@ -37,7 +37,3 @@ The project focuses on user interaction, scene navigation, keyboard-based contro
 
 
 
-
-
-## Status
-Academic Human-Computer Interaction project.
